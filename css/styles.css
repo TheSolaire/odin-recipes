@@ -1,0 +1,30 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.links{
+    font-size: 24px;
+    background-color: orange;
+}
+
+#index-message{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(236, 255, 127); 
+}
+
+.ingredients{
+    background-color: yellow;
+    color: black;
+}
+
+.steps{
+    background-color: yellow;
+    color: black;
+}
+
+.go-back-index{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: salmon;
+}
